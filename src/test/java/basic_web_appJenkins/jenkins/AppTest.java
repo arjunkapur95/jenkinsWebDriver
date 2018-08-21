@@ -54,8 +54,8 @@ public class AppTest extends TestCase {
 		
 		System.setProperty("webdriver.chrome.driver","./chromedriver.exe");
 	      
-        ChromeOptions chromeOptions = new ChromeOptions();
-
+        	ChromeOptions chromeOptions = new ChromeOptions();
+		chromeOptions.addArguments("--no-sandbox");
 		
 
 		// Open a Chrome browser.
@@ -96,7 +96,8 @@ public class AppTest extends TestCase {
 		serverURL = new URI("http://www.health.gov.au/internet/ministers/publishing.nsf/Content/Profile-BM-1");
 		System.setProperty("webdriver.chrome.driver","./chromedriver.exe");
 	      
-        ChromeOptions chromeOptions = new ChromeOptions();
+        	ChromeOptions chromeOptions = new ChromeOptions();
+		chromeOptions.addArguments("--no-sandbox");
 
 		
 
@@ -142,8 +143,8 @@ public class AppTest extends TestCase {
 
 		System.setProperty("webdriver.chrome.driver","./chromedriver.exe");
 	      
-        ChromeOptions chromeOptions = new ChromeOptions();
-
+        	ChromeOptions chromeOptions = new ChromeOptions();
+		chromeOptions.addArguments("--no-sandbox");
 		
 
 		// Open a Chrome browser.
@@ -188,8 +189,8 @@ public class AppTest extends TestCase {
 
 		System.setProperty("webdriver.chrome.driver","./chromedriver.exe");
 	      
-        ChromeOptions chromeOptions = new ChromeOptions();
-
+        	ChromeOptions chromeOptions = new ChromeOptions();
+		chromeOptions.addArguments("--no-sandbox");
 		
 
 		// Open a Chrome browser.
