@@ -194,7 +194,7 @@ public class AppTest extends TestCase {
 		
 
 		// Open a Chrome browser.
-		WebDriver driver = new ChromeDriver(chromeOptions);
+		WebDriver driver = new ChromeDriver(chromeOptions);//testing CI
 
 		
 		
