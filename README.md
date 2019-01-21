@@ -8,6 +8,6 @@ Configure the JOB Like so
 
 * General Configuration ![General Configuration](https://i.imgur.com/v48AVkB.png)
 * Source Code Management Configuration ![myimage-alt-tag](https://i.imgur.com/86l2ME0.png)
-* Maven Build Management ![myimage-alt-tag] (https://i.imgur.com/37WdYrX.png)
+* Maven Build Management ![myimage-alt-tag](https://i.imgur.com/37WdYrX.png)
 
 
