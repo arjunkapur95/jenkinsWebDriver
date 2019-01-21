@@ -7,7 +7,7 @@ Start a new Maven Job On Jenkins
 Configure the JOB Like so
 
 * General Configuration ![General Configuration](https://i.imgur.com/v48AVkB.png)
-* Source Code Management Configuration ![General Configuration] (https://imgur.com/86l2ME0)
+* Source Code Management Configuration ![myimage-alt-tag](https://imgur.com/86l2ME0)
 
 
 
