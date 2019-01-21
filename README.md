@@ -6,7 +6,7 @@ Configure JAVA And Maven on Jenkins
 Start a new Maven Job On Jenkins
 Configure the JOB Like so
 
-*![General Configuration Maven Job] [Imgur](https://i.imgur.com/v48AVkB.png)
+![myimage-alt-tag](https://i.imgur.com/v48AVkB.png)
 
 
 
