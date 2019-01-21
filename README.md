@@ -6,8 +6,8 @@ Configure JAVA And Maven on Jenkins
 Start a new Maven Job On Jenkins
 Configure the JOB Like so
 
-![General Configuration](https://i.imgur.com/v48AVkB.png)
-
+* General Configuration ![General Configuration](https://i.imgur.com/v48AVkB.png)
+* Source Code Management Configuration ![General Configuration] (https://imgur.com/86l2ME0)
 
 
 
