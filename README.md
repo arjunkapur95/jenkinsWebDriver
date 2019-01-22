@@ -3,7 +3,7 @@ This repository contains a template for running selenium based test cases using 
 The Pom.xml has all the required dependencies.
 # Use
 In order to use this repository you can just clone https://github.com/arjunkapur95/jenkinsWebDriver.git
-Open with An IDE and edit AppTest.java (Location : src/test/java.basic_Web_appJenkins/Jenkins) to update the test cases to run the test cases that you design.  
+Open with An IDE and edit AppTest.java (**Location : src/test/java.basic_Web_appJenkins/Jenkins**) to update the test cases to run the test cases that you design.  
 
 # Pre-Requisites
 Have a valid installation of JAVA and Maven 
